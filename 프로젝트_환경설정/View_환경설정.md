@@ -17,7 +17,7 @@
             + `Get`은 HTTP요청 메서드 `GET` 메서드를 의미 
             + `"hello"` : 해당 url과 매칭됨
         + `return "hello";` : `resources/templates`에서 문자열(`hello`)와 일치하는 `.html`을 찾아서 렌더링하라는 의미
-            + 참고> `IntelliJ`는 `"hello";`를 `Ctrl+마우스 우클릭`하면 해당 `.html`로 이동하는 기능을 제공 
+            + 참고 : `IntelliJ`는 `"hello";`를 `Ctrl+마우스 좌클릭`하면 해당 `.html`로 이동하는 기능을 제공 
     + [resources/templates/hello.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/hello-spring/src/main/resources/templates/hello.html) 코드 설명
         + `data`는 `HelloController`에서 `attributeName`(key)이고, 실제 화면에 보여지는 것은 `attributeValue`로 준 값이다.
     + `Thymeleaf` 템플릿 엔진 동작 확인하기
