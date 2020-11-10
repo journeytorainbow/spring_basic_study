@@ -5,7 +5,7 @@
 
 + **방법1** : 스프링 부트가 제공하는 Welcome Page 기능 
     + [static/index.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/hello-spring/src/main/resources/static/index.html)을 올려두면 Welcome Page기능을 제공
-        + [스프링 부트 매뉴얼](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-webflux-welcome-page)
+        + 참고 링크 : [스프링 부트 매뉴얼](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-webflux-welcome-page)
 
 + **방법2** : `Thymeleaf` 템플릿 엔진
     + 참고 링크
