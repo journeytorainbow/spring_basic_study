@@ -4,10 +4,10 @@
 > ## Welcome Page 만들기
 
 + **방법1** : 스프링 부트가 제공하는 Welcome Page 기능 
-    + [static/index.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/hello-spring/src/main/resources/static/index.html)을 올려두면 Welcome Page기능을 제공
+    + [static/index.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/hello-spring/src/main/resources/static/index.html)(정적 파일)을 올려두면 Welcome Page기능을 제공
         + 참고 링크 : [스프링 부트 매뉴얼](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-webflux-welcome-page)
 
-+ **방법2** : `Thymeleaf` 템플릿 엔진
++ **방법2** : `Thymeleaf` 템플릿 엔진 이용
     + 참고 링크
         + [Thymeleaf 공식 사이트](https://www.thymeleaf.org/)
         + [스프링 공식 튜토리얼](https://spring.io/guides/gs/serving-web-content/)
@@ -19,6 +19,7 @@
         + `return "hello";` : `resources/templates`에서 문자열(`hello`)와 일치하는 `.html`을 찾아서 렌더링하라는 의미
             + 참고 : `IntelliJ`는 `"hello";`를 `Ctrl+마우스 좌클릭`하면 해당 `.html`로 이동하는 기능을 제공 
     + [resources/templates/hello.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/hello-spring/src/main/resources/templates/hello.html) 코드 설명
+        + `<html xmlns:th="http://www.thymeleaf.org">` : `Thymeleaf` 문법을 사용할 수 있도록 해줌.
         + `data`는 `HelloController`에서 `attributeName`(key)이고, 실제 화면에 보여지는 것은 `attributeValue`로 준 값이다.
     + `Thymeleaf` 템플릿 엔진 동작 확인하기
         + 실행 후, http://localhost:8080/hello 로 접속
