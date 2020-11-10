@@ -19,7 +19,7 @@
         + `return "hello";` : `resources/templates`에서 문자열(`hello`)와 일치하는 `.html`을 찾아서 렌더링하라는 의미
             + 참고> `IntelliJ`는 `"hello";`를 `Ctrl+마우스 우클릭`하면 해당 `.html`로 이동하는 기능을 제공 
     + [resources/templates/hello.html]()
-    + `data`는 `HelloController`에서 `attributeName`(key)이고, 실제 화면에 보여지는 것은 `attributeValue`로 준 값이다.
+        + `data`는 `HelloController`에서 `attributeName`(key)이고, 실제 화면에 보여지는 것은 `attributeValue`로 준 값이다.
     + `Thymeleaf` 템플릿 엔진 동작 확인하기
         + 실행 후, http://localhost:8080/hello 로 접속
     + 동작 환경 그림(출처 : [강의 자료](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/lecture/49605?tab=curriculum&speed=2))
