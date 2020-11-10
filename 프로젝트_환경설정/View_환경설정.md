@@ -24,7 +24,7 @@
         + 실행 후, http://localhost:8080/hello 로 접속
     + 동작 환경 그림(출처 : [강의 자료](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/lecture/49605?tab=curriculum&speed=2))
         + 컨트롤러에서 리턴값으로 문자를 반환하면 뷰 리졸버(`viewResolver`)가 해당 화면을 찾아서 처리한다.
-            + 스프링 부트 템플릿 엔진 기본 `viewNam`매핑
+            + 스프링 부트 템플릿 엔진 기본 `viewName`매핑
                 + `resources:templates/ + {viewName(리턴값으로 준 문자)} + .html`
 
     <img src="https://github.com/journeytorainbow/spring_boot_study/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/img/img_10.JPG?raw=true">
