@@ -31,4 +31,5 @@
 
 + 참고
     + `spring-boot-devtools`라이브러리를 추가하면, `html`파일을 컴파일만 해주면 서버 재시작 없이 `View`파일 변경이 가능하다.
-        + [설정 방법 링크]()
+        + [설정 방법 링크](https://lejewk.github.io/springboot-devtool/)
+        + IntelliJ 컴파일 방법 : `build - Recompile`
