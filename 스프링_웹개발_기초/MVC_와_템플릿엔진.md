@@ -17,7 +17,7 @@
 
 ### __View__
 
-+ [resources/template/hello-template.html]()
++ [resources/template/hello-template.html](https://github.com/journeytorainbow/spring_boot_study/blob/master/hello-spring/src/main/resources/templates/hello-template.html)
 
 
 ### __실행__
@@ -29,4 +29,4 @@
         + 이 때, `model`에 키값으로는 `name`을 값으로는 `spring`을 넘겨줌.
         + `Thymeleaf` 템플릿 엔진이 렌더링하여 변환된 html을 클라이언트 쪽으로 반환한다.
 
-<img src="img_2">
+<img src="https://github.com/journeytorainbow/spring_boot_study/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9B%B9%EA%B0%9C%EB%B0%9C_%EA%B8%B0%EC%B4%88/img/img_2.JPG?raw=true">
