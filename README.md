@@ -15,3 +15,6 @@
   + [정적 컨텐츠](https://github.com/journeytorainbow/spring_boot_study/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9B%B9%EA%B0%9C%EB%B0%9C_%EA%B8%B0%EC%B4%88/%EC%A0%95%EC%A0%81_%EC%BB%A8%ED%85%90%EC%B8%A0.md)
   + [MVC와 템플릿 엔진](https://github.com/journeytorainbow/spring_boot_study/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9B%B9%EA%B0%9C%EB%B0%9C_%EA%B8%B0%EC%B4%88/MVC_%EC%99%80_%ED%85%9C%ED%94%8C%EB%A6%BF%EC%97%94%EC%A7%84.md)
   + [API](https://github.com/journeytorainbow/spring_boot_study/blob/master/%EC%8A%A4%ED%94%84%EB%A7%81_%EC%9B%B9%EA%B0%9C%EB%B0%9C_%EA%B8%B0%EC%B4%88/API.md)
+
+### __회원 관리 예제 - 백엔드 개발__
+  + [비즈니스 요구사항 정리](https://github.com/journeytorainbow/spring_boot_study/blob/master/(%EB%B0%B1%EC%97%94%EB%93%9C)%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC%EC%98%88%EC%A0%9C/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EC%A0%95%EB%A6%AC.md)
