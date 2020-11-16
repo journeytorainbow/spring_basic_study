@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# spring_boot_study
-스프링 공부용 레파지토리
-=======
 # spring_basic_study
 스프링 기초 강의 공부용 레파지토리
->>>>>>> 27d73ec5f26c1371e6be8a580b48be71cf0e3e9b
 
 + [강의 링크](https://www.inflearn.com/my-courses)
 
