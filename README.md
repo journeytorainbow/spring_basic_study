@@ -1,4 +1,4 @@
-# spring_basic_study
+# spring_basic_study1
 스프링 기초 강의 공부용 레파지토리
 
 + [강의 링크](https://www.inflearn.com/my-courses)
