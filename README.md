@@ -1,5 +1,5 @@
-# spring_boot_study
-스프링 공부용 레파지토리
+# spring_basic_study
+스프링 기초 강의 공부용 레파지토리
 
 + [강의 링크](https://www.inflearn.com/my-courses)
 
